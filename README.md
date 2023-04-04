@@ -1,5 +1,5 @@
 # Process Dumper
-Process Dumper: A graphical user interface tool for dumping random process memory using MiniDumpWriteDump, excluding any PPPL (Protected Process Light) Process.
+Process Dumper: A graphical user interface tool for dumping random process memory using MiniDumpWriteDump, excluding any PPL (Protected Process Light) Process.
 
 ## How to Use:
 
